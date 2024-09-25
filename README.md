@@ -98,6 +98,7 @@ To run the **Code Challenges App**, ensure you have a modern web browser install
 | Code Ninja | Earned by using 20 advanced coding techniques. | 🥷 |
 | Explorer | Earned by exploring 15 different challenge categories. | 🧭 |
 | Marathoner | Earned by coding for a total of 100 hours. | 🏃‍♂️ |
+
 *Hover over any badge in-game to see its description.*
 
 ## Contributing
