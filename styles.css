@@ -117,6 +117,7 @@ body.light-mode {
 
 /* Sidebar Styles */
 .sidebar {
+  margin-top: 70px;
   width: 30%;
   background-color: #1e1e1e;
   padding: 20px;
