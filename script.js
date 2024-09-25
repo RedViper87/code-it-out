@@ -870,9 +870,9 @@ const challenges = [
 
 // Points and Badges Configuration
 const badgesConfig = [
-    { name: "Beginner", criteria: { points: 10 }, image: "🥇", description: "Earned by accumulating 10 points." },
+    { name: "Beginner", criteria: { points: 10 }, image: "🥉", description: "Earned by accumulating 10 points." },
     { name: "Intermediate", criteria: { points: 50 }, image: "🥈", description: "Earned by accumulating 50 points." },
-    { name: "Advanced", criteria: { points: 100 }, image: "🥉", description: "Earned by accumulating 100 points." },
+    { name: "Advanced", criteria: { points: 100 }, image: "🥇", description: "Earned by accumulating 100 points." },
     { name: "Master", criteria: { points: 200 }, image: "🏆", description: "Earned by accumulating 200 points." },
     { name: "Grandmaster", criteria: { points: 300 }, image: "🎖️", description: "Earned by accumulating 300 points." },
     { name: "Legend", criteria: { points: 500 }, image: "🌟", description: "Earned by accumulating 500 points." },
