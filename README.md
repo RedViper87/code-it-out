@@ -13,7 +13,6 @@
   - [Navigating Challenges](#navigating-challenges)
   - [Running Code](#running-code)
   - [Earning Badges](#earning-badges)
-  - [Level Selection Grid](#level-selection-grid)
 - [Badges](#badges)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,7 +29,6 @@ The **Code Challenges App** is an interactive web-based platform designed to hel
 - **Automated Testing**: Instant feedback on your solutions with detailed test case results.
 - **Badge System**: Earn badges based on points, speed, and other achievements to track your progress.
 - **Theme Toggle**: Switch between dark and light modes to suit your preference.
-- **Level Selection Grid**: Jump directly to any challenge using the intuitive grid at the top.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Persistent Progress**: Your progress, points, and badges are saved locally in your browser.
 
