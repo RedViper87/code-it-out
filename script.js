@@ -964,9 +964,11 @@ function loadChallenge(level) {
         <ol>
             ${challenge.instructions.steps.map(step => `<li>${step}</li>`).join('')}
         </ol>
-        <h3>Example:</h3>
-        <pre><code>${challenge.instructions.example}</code></pre>
     `;
+    /* Add this in above if needed:
+        <h3>Example:</h3>
+        <pre><code>${challenge.instructions.example}</code></pre> 
+    */
 
     // Load Previous Code if exists
     if (userData.completedLevels[level] && userData.completedLevels[level].code) {
